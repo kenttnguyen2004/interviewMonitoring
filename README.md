@@ -9,7 +9,7 @@ A local research prototype that combines webcam-based head and iris measurements
 ## Explore the project
 
 - [Watch the interview-monitoring demo](Kent-InterviewMonitoring.mp4)
-- [Demo 1](https://github.com/kenttnguyen2004/interviewMonitoring/blob/main/KentN-interviewMonitoringDemo-animated.gif) | 
+- Quick Preview: [Demo 1](https://github.com/kenttnguyen2004/interviewMonitoring/blob/main/KentN-interviewMonitoringDemo-animated.gif) | 
 [Demo 2](https://github.com/kenttnguyen2004/interviewMonitoring/blob/main/Kent-Nguyen-Interview-Monitoring-Demo-animated.gif)
 - [Watch the question-transcription test](Kent%20Nguyen%20-%20IM%20Testing.mp4) — Kent reads generic interview questions for the transcript and question-detection workflow.
 - [Read the sample project report](KentInterviewMonitoringReport.pdf)
